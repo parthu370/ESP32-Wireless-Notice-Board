@@ -530,13 +530,14 @@ images/web\_control\_panel/
 
 \- Video playback support
 
+## License
 
+This project is protected under All Rights Reserved.
+Unauthorized copying or reuse of this project is prohibited.
 
 
 
 **## Author**
-
-
 
 Partha Sarathi
 
